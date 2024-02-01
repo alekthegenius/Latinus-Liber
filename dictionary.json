@@ -1,0 +1,33 @@
+{
+    "dictionary":[
+        {"latin":"", "same":""},
+        {"latin":"", "english":"", "type":"noun", "declension":"", "endings":"", "gender":""},
+        {"latin":"", "english":"", "type":"preposition", "take":""},
+        {"latin":"", "english":"", "type":"verb", "verb-type":"intransitive", "with":"", "conjugation":""},
+        {"latin":"", "english":"", "type":"verb", "verb-type":"transitive", "conjugation":""},
+        {"latin":"", "english":"", "type":"adjective", "declension":""},
+        {"latin":"", "english":"", "type":"adverb"},
+        {"latin":"", "english":"", "type":"interrogative-adverb"},
+        {"latin":"", "english":"", "type":"conjugation"},
+
+        {"latin":"a", "same":"ab"},
+        {"latin":"a fronte", "english":"in the front, from the rear", "type":"compound-prepostion", "takes":"ablative"},
+        {"latin":"a tergo", "english":"in the rear, from the rear", "type":"compound-prepostion", "takes":"ablative"},
+        {"latin":"ab", "english":"by, from away, from", "type":"prepositon", "takes":"ablative"},
+        {"latin":"absum, abesse, afui, afuturus", "english":"am away, am distant", "type":"verb", "verb-type":"intransitive", "with":"ab", "irregular":"true", "conjugation":"irregular"},
+        {"latin":"ac", "same":"atque"},
+        {"latin":"accipo, accipere, accepi, acceptus", "english":"recieve, accept", "type":"verb", "verb-type":"transitive", "conjugation":"3"},
+        {"latin":"acies, aciei", "english":"battle line", "type":"noun", "declension":"3", "gender":"feminine"},
+        {"latin":"acriter", "english":"bitter, eagerly", "type":"adverb"},
+        {"latin":"ad", "english":"to, until, at for", "type":"preposition", "take":"accusative"},
+        {"latin":"adduco, adducere, adduxi, adductus", "english":"lead to, lead on", "type":"verb", "verb-type":"transitive", "conjugation":"3"},
+        {"latin":"adero, adire, adii, aditus", "english":"go to, approach, visit", "type":"verb", "verb-type":"transitive", "irregular":"true", "conjugation":"4"},
+        {"latin":"adjuvo, adjuvare, adjuvi, adjutus", "english":"help, aid", "type":"verb", "verb-type":"transitive", "conjugation":"1"},
+        {"latin":"administro", "english":"manage, attend to", "type":"verb", "verb-type":"transitive", "conjugation":"1"},
+        {"latin":"adoro", "english":"adore", "type":"verb", "verb-type":"transitive", "conjugation":"1"},
+        {"latin":"adventus, adventus", "english":"arrival, coming", "type":"noun", "declension":"4", "gender":"masculine"},
+        {"latin":"adversus, a, um", "english":"facing (towards), unfavorable", "with":"dative", "type":"adjective", "declension":"1-2"},
+        {"latin":"res adversae, rerum adversarum", "english":"adversity", "type":"other", "gender":"feminine"},
+        
+    ]
+}
